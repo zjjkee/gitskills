@@ -4,4 +4,4 @@ creating a new branch is quick and simple
 =======
 creating a new branch is quick and simple
 >>>>>>> feature1
-随便修改
+不可随意修改，已修复
