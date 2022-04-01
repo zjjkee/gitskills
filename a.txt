@@ -4,4 +4,8 @@ creating a new branch is quick and simple
 =======
 creating a new branch is quick and simple
 >>>>>>> feature1
+<<<<<<< Updated upstream
 不可随意修改，已修复
+=======
+:
+>>>>>>> Stashed changes
